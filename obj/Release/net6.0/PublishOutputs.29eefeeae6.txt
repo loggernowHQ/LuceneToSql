@@ -1,0 +1,4 @@
+C:\Users\rajpa\Downloads\LuceneToManticoreSql.dll
+C:\Users\rajpa\Downloads\LuceneToManticoreSql.deps.json
+C:\Users\rajpa\Downloads\LuceneToManticoreSql.pdb
+C:\Users\rajpa\Downloads\Antlr4.Runtime.Standard.dll

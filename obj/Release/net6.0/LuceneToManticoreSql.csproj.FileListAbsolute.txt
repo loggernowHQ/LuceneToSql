@@ -1,0 +1,12 @@
+D:\Projects\loggernow\practice\LuceneToSql\bin\Release\net6.0\LuceneToManticoreSql.deps.json
+D:\Projects\loggernow\practice\LuceneToSql\bin\Release\net6.0\LuceneToManticoreSql.dll
+D:\Projects\loggernow\practice\LuceneToSql\bin\Release\net6.0\LuceneToManticoreSql.pdb
+D:\Projects\loggernow\practice\LuceneToSql\obj\Release\net6.0\LuceneToManticoreSql.csproj.AssemblyReference.cache
+D:\Projects\loggernow\practice\LuceneToSql\obj\Release\net6.0\LuceneToManticoreSql.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\loggernow\practice\LuceneToSql\obj\Release\net6.0\LuceneToManticoreSql.AssemblyInfoInputs.cache
+D:\Projects\loggernow\practice\LuceneToSql\obj\Release\net6.0\LuceneToManticoreSql.AssemblyInfo.cs
+D:\Projects\loggernow\practice\LuceneToSql\obj\Release\net6.0\LuceneToManticoreSql.csproj.CoreCompileInputs.cache
+D:\Projects\loggernow\practice\LuceneToSql\obj\Release\net6.0\LuceneToManticoreSql.dll
+D:\Projects\loggernow\practice\LuceneToSql\obj\Release\net6.0\refint\LuceneToManticoreSql.dll
+D:\Projects\loggernow\practice\LuceneToSql\obj\Release\net6.0\LuceneToManticoreSql.pdb
+D:\Projects\loggernow\practice\LuceneToSql\obj\Release\net6.0\ref\LuceneToManticoreSql.dll

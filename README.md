@@ -2,7 +2,10 @@
 # LuceneToManticoreSql
 This package is used to convert lucene to manticore sql.
 
-
+# Install From Nuget
+```
+dotnet add package LuceneToManticoreSql --version 0.0.1
+```
 
 ## Features
 

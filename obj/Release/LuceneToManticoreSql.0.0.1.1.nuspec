@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>LuceneToManticoreSql</id>
+    <version>0.0.1.1</version>
+    <title>LuceneToManticoreSql</title>
+    <authors>Raj Patil</authors>
+    <license type="expression">MIT</license>
+    <licenseUrl>https://licenses.nuget.org/MIT</licenseUrl>
+    <readme>README.md</readme>
+    <projectUrl>https://github.com/loggernowHQ/LuceneToSql</projectUrl>
+    <description>Package Description</description>
+    <repository url="https://github.com/loggernowHQ/LuceneToSql" />
+    <dependencies>
+      <group targetFramework="net6.0">
+        <dependency id="Antlr4.Runtime.Standard" version="4.11.1" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="D:\Projects\loggernow\practice\LuceneToSql\bin\Release\net6.0\LuceneToManticoreSql.dll" target="lib\net6.0\LuceneToManticoreSql.dll" />
+    <file src="D:\Projects\loggernow\practice\LuceneToSql\README.md" target="\README.md" />
+  </files>
+</package>
