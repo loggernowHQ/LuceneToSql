@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>LuceneToManticoreSql</id>
+    <version>0.0.3</version>
+    <title>LuceneToManticoreSql</title>
+    <authors>Raj Patil</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework="net6.0">
+        <dependency id="Antlr4.Runtime.Standard" version="4.11.1" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="D:\Projects\loggernow\practice\LuceneToSql\bin\Debug\net6.0\LuceneToManticoreSql.dll" target="lib\net6.0\LuceneToManticoreSql.dll" />
+  </files>
+</package>

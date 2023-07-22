@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "dzh50zak7d7L7g/0vD3cNyt4a3QRh/WW6L0sPNL8gzBVwMPq59HmEeSvNsepjWulX10GUwYTq421jGhmblSEZQ==",
+  "success": true,
+  "projectFilePath": "D:\\Projects\\loggernow\\practice\\LuceneToSql\\LuceneToManticoreSql.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rajpa\\.nuget\\packages\\antlr4.runtime.standard\\4.11.1\\antlr4.runtime.standard.4.11.1.nupkg.sha512"
+  ],
+  "logs": []
+}

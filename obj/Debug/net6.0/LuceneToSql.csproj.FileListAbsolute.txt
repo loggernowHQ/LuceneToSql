@@ -1,0 +1,12 @@
+D:\Projects\loggernow\practice\LuceneToSql\bin\Debug\net6.0\LuceneToSql.deps.json
+D:\Projects\loggernow\practice\LuceneToSql\bin\Debug\net6.0\LuceneToSql.dll
+D:\Projects\loggernow\practice\LuceneToSql\bin\Debug\net6.0\LuceneToSql.pdb
+D:\Projects\loggernow\practice\LuceneToSql\obj\Debug\net6.0\LuceneToSql.csproj.AssemblyReference.cache
+D:\Projects\loggernow\practice\LuceneToSql\obj\Debug\net6.0\LuceneToSql.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\loggernow\practice\LuceneToSql\obj\Debug\net6.0\LuceneToSql.AssemblyInfoInputs.cache
+D:\Projects\loggernow\practice\LuceneToSql\obj\Debug\net6.0\LuceneToSql.AssemblyInfo.cs
+D:\Projects\loggernow\practice\LuceneToSql\obj\Debug\net6.0\LuceneToSql.csproj.CoreCompileInputs.cache
+D:\Projects\loggernow\practice\LuceneToSql\obj\Debug\net6.0\LuceneToSql.dll
+D:\Projects\loggernow\practice\LuceneToSql\obj\Debug\net6.0\refint\LuceneToSql.dll
+D:\Projects\loggernow\practice\LuceneToSql\obj\Debug\net6.0\LuceneToSql.pdb
+D:\Projects\loggernow\practice\LuceneToSql\obj\Debug\net6.0\ref\LuceneToSql.dll
